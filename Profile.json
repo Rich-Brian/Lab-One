@@ -1,0 +1,10 @@
+//JSON Test
+{
+ "firstName" : "Brian",
+ "lastName" : "Marcks",
+ "displayHandle": "Rich Brian",
+
+"posts":[ "Jeremy Harris" , "Elfie Morris" , "Jack Nichols" ],
+"Age" : 45,
+"Active" : true 
+}

@@ -1,0 +1,38 @@
+{
+	"name": [
+		"Bertram",
+		"Stan",
+		"Cecil"
+	],
+	"occupation": [
+		"baker",
+		"wizard",
+		"soldier"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# THIS in his #person#'s #house#!"
+	],
+	"always": [
+		"always",
+		"never",
+		"rarely",
+		"hardly"
+	],
+	"expecting": [
+		"expecting",
+		"anticipating",
+		"imagining",
+		""
+	],
+	"person": [
+		"wife",
+		"husband",
+		"cousin",
+		"mother"
+	],
+	"house": [
+		"closet ",
+		"wardrobe",
+		"house"
+	]
+}
